@@ -112,11 +112,6 @@ body {
 
 }
 
-.pricing-features-item:last-child {
-    border-bottom: 1px solid #e1f1ff;;
-
-}
-
 .pricing-price {
     color: #016ff9;
     display: block;
