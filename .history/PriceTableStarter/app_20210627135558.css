@@ -143,8 +143,3 @@ background-color: #e1f1ff;
     background-color: #48aaff;
     color: white ;
 }
-
-.pricing-button.is-featured:hover, .pricing-button.is-featured:focus {
-    background-color: #269aff;
-    color: white ;
-}
